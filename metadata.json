@@ -1,0 +1,5 @@
+{
+  "name": "Student Management System",
+  "description": "A web-based Student Management System that allows students to manage their academic and administrative activities digitally and provides faculty with tools to review, verify, and approve student submissions efficiently.",
+  "requestFramePermissions": []
+}
